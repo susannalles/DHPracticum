@@ -4,8 +4,8 @@
 title:               DH Practicum
 tagline:             'MLL 774-2T | University of Miami | Fall 2018'
 description:         'Digital Humanities Practicum'
-url:                 'http://susannalles.com/DHPracticum'
-baseurl:             ''
+url:                 'http://susannalles.com'
+baseurl:             '/DHPracticum'
 
 # About/contact
 author:
