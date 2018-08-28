@@ -5,7 +5,7 @@ title: Program
 
 ## August 23:
 * Introductions
-* Guest Lecture from Dr. Paige Morgan: *Humanities Data and Humanities Data Curation* 
+* Guest Lecture from Dr. Paige Morgan: [*Humanities Data and Humanities Data Curation*](https://docs.google.com/presentation/d/1-98sS3ku65E5g5UqkusyD_b4RrEUAHH2ROSydUV5lAk/edit?usp=sharing) 
 
 # THE DISCIPLINE(S)
 
@@ -14,7 +14,14 @@ title: Program
 * Berry, Dave. “[The Computational Turn.](https://www.culturemachine.net/index.php/cm/article/download/440/470)” Culture Machine, 12, 2011 [Online] 
 * Lisa Samuels and Jerome McGann, “[Deformance and Interpretation](http://www2.iath.virginia.edu/jjm2f/old/deform.html)”
 
+> Github: create username, activate GitHub Pages
+ 
+> Start thinking on your eportfolio 
+
+
 ## September 6:  
+
+> Class Leader: Tarika Sankar
 
 > First Presentations
 
@@ -23,6 +30,9 @@ title: Program
 * Kramer, Michael. “[What Does Digital Humanities bring to the Table?](http://www.michaeljkramer.net/what-does-digital-humanities-bring-to-the-table/)”, Michael J.Kramer’s Blog, 25 September 2012 
 
 ## September 13: 
+
+> Class Leader: Carlos Zepeda 
+
 * Leon, Sharon. “[Project Management for Humanists.](http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists)” #alt-academy (May 6, 2011).   
 * Liu, Alan. “[The Meaning of the Digital Humanities.](https://escholarship.org/uc/item/5gc857tw)” PMLA 128 (2013): 409-23 
 * Nowviskie, Bethany. “[Ten Rules for Humanities Scholars New to Project Management.](http://nowviskie.org/handouts/DH/10rules.pdf)” Personal. Bethany Nowviskie, November 2011.  
@@ -30,6 +40,8 @@ title: Program
 # WEB TECHNOLOGIES
 
 ## September 20: 
+
+> Class Leader: Ashley Hemm 
 
 > Exercice:  Create an ePortforlio (cv, research).
  
@@ -45,7 +57,10 @@ title: Program
 
 # DATA AND DATABASE
 
-## September 27: 
+## September 27:
+
+> Class Leader: Dainerys Machado
+ 
 > ePortfolio due; you should also have had your first project conference with Dr. Morgan by now.
 
 > Exercice: Explore types of database; propose solutions for humanities projects; design (sketch) their own… CSV file fun!
@@ -59,6 +74,8 @@ title: Program
 # TEXT TECHNOLOGIES (I)
 
 ## October 4:
+
+> Class Leader: Lidiana de Moraes dos Santos 
 
 > Exercice: collaborative Text Encoding activity
 
@@ -95,6 +112,8 @@ title: Program
 # MAPPING
 
 ## November 1: 
+
+> Class Leader: Sam Johnson 
 
 > Exercice: Explore some of the maps available at <http://www.radicalcartography.net/>
 
