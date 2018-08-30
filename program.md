@@ -16,7 +16,7 @@ title: Program
 
 > Github: [Create username & Activate GitHub Pages](http://susannalles.com/DHPracticum/practice/github/)
  
-> Start thinking on your eportfolio 
+> Start thinking on your eportfolio [coming] 
 
 
 ## September 6:  
