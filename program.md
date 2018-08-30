@@ -14,7 +14,7 @@ title: Program
 * Berry, Dave. “[The Computational Turn.](https://www.culturemachine.net/index.php/cm/article/download/440/470)” Culture Machine, 12, 2011 [Online] 
 * Lisa Samuels and Jerome McGann, “[Deformance and Interpretation](http://www2.iath.virginia.edu/jjm2f/old/deform.html)”
 
-> Github: [Create username & Activate GitHub Pages]({{ site.baseurl }}/practice/github/)
+> Github: [Create username & Activate GitHub Pages](http://susannalles.com/DHPracticum/practice/github/)
  
 > Start thinking on your eportfolio 
 
