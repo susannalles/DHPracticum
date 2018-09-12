@@ -31,7 +31,7 @@ title: Program
 
 ## September 13: 
 
-> Class Leader: Carlos Zepeda 
+> Class Leader: Ashley Hemm 
 
 * Leon, Sharon. “[Project Management for Humanists.](http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists)” #alt-academy (May 6, 2011).   
 * Liu, Alan. “[The Meaning of the Digital Humanities.](https://escholarship.org/uc/item/5gc857tw)” PMLA 128 (2013): 409-23 
@@ -41,17 +41,23 @@ title: Program
 
 ## September 20: 
 
-> Class Leader: Ashley Hemm 
+> Class Leader: 
 
 > Exercice:  Create an ePortforlio (cv, research).
  
 * Foucault, Michel. “[Introduction](http://serendipstudio.org/sci_cult/evolit/s05/prefaceOrderFoucault.pdf),” *The Order of Things. An Archaeology of the Human Sciences*. New York: Vintage Books. 
 * Sperberg-McQueen, C.M. “[Classification and its Structures](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-2&toc.id=0&brand=9781405103213_brand)”, in *A Companion to Digital Humanities*, 2004.  
 * Spiro, Lisa. “[This Is Why We Fight: Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13),” in *Debates in the Digital Humanities*. Minneapolis-London: University of Minnesota Press, 2012, pp. 16-35
+
 * Posner, Miriam, S. Varner, Brian Croxall, "[Creating Your Web Presence: A Primer for Academics](https://www.chronicle.com/blogs/profhacker/creating-your-web-presence-a-primer-for-academics/30458)", 2011
 * Sayers, Jentery. "[Do You Need Your Own Website While On the Job Market](https://www.chronicle.com/blogs/profhacker/do-you-need-your-own-website-while-on-the-job-market/35825)", 2011
-* *[Tips for Building a Better Public Portfolio](https://sites01.lsu.edu/wp/cxc/files/2014/07/2014-DCHandbook_TipsBetterPort.pdf)*, LSU Distinguished Communicator Handbook, July 2014	 
-* Turkel, William J., and Adam Crymble, "[Understanding Web Pages and HTML]()," The *Programming Historian* 1 (2012).
+* [Tips for Building a Better Public Portfolio](https://sites01.lsu.edu/wp/cxc/files/2014/07/2014-DCHandbook_TipsBetterPort.pdf)*, LSU Distinguished Communicator Handbook, July 2014	 
+* Turkel, William J., and Adam Crymble, "[Understanding Web Pages and HTML](https://programminghistorian.org/en/lessons/viewing-html-files)," The *Programming Historian* 1 (2012).
+
+## Tutorials 
+* CodeCademy. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css)
+* Or W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
+
 
 
 
