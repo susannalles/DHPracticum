@@ -57,7 +57,7 @@ title: Program
 ## Tutorials 
 * CodeCademy. [Introduction to HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css)
 * Or W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
-
+* Or [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
 
 
@@ -75,7 +75,10 @@ title: Program
 * Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in A Companion to Digital Humanities, 2004. 
 * “['Raw Data' is an Oxymoron](http://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf)", ed. Lisa Gitelman Gitelman, MIT Press, 2013. Introduction and afterward. 
 
-
+## Tutorials 
+* McGlone, Jonathan.["Creatin and Hosting a Personal Site on GitHub"](http://jmcglone.com/guides/github-pages/)
+* Visconti, Amanda. ["Building a static website with Jekyll and GitHub Pages."](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) *The Programming Historian* 5 (2016)
+* Explore the [free Jekyll theme](http://jekyllthemes.org/) and go minimal!
 
 # TEXT TECHNOLOGIES (I)
 
