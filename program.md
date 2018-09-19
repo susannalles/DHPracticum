@@ -5,7 +5,7 @@ title: Program
 
 ## August 23:
 * Introductions
-* Guest Lecture from Dr. Paige Morgan: [*Humanities Data and Humanities Data Curation*](https://docs.google.com/presentation/d/1-98sS3ku65E5g5UqkusyD_b4RrEUAHH2ROSydUV5lAk/edit?usp=sharing) 
+* Guest Lecture from Dr. Paige Morgan: [*Humanities Data Creation and Curation*](https://docs.google.com/presentation/d/1-98sS3ku65E5g5UqkusyD_b4RrEUAHH2ROSydUV5lAk/edit?usp=sharing) 
 
 # THE DISCIPLINE(S)
 
@@ -25,7 +25,7 @@ title: Program
 
 > First Presentations
 
-* Hughes, Lorna, Panos Constantopoulos, and Costis Dallas. “[Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines.](https://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339)” In *A New Companion to Digital Humanities**, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 150-170. 
+* Hughes, Lorna, Panos Constantopoulos, and Costis Dallas. “[Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines.](https://ebookcentral.proquest.com/lib/miami/detail.action?docID=4093339)” In *A New Companion to Digital Humanities*, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 150-170. 
 * Kirschenbaum, Matthew G. “[Done: Finishing Projects in the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/3/2/000037/000037.html),” vol. 3, no. 2 (2009). 
 * Kramer, Michael. “[What Does Digital Humanities bring to the Table?](http://www.michaeljkramer.net/what-does-digital-humanities-bring-to-the-table/)”, Michael J.Kramer’s Blog, 25 September 2012 
 
@@ -33,9 +33,13 @@ title: Program
 
 > Class Leader: Ashley Hemm 
 
+> Paige Morgan: ["Project Management for new-to-DH grad students"](https://docs.google.com/presentation/d/1xqmC0CddJ3GfbRNQPVYNDpWbwbqd4Aa0PsqkIFgl9bc/edit#slide=id.p) 
+
 * Leon, Sharon. “[Project Management for Humanists.](http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists)” #alt-academy (May 6, 2011).   
 * Liu, Alan. “[The Meaning of the Digital Humanities.](https://escholarship.org/uc/item/5gc857tw)” PMLA 128 (2013): 409-23 
 * Nowviskie, Bethany. “[Ten Rules for Humanities Scholars New to Project Management.](http://nowviskie.org/handouts/DH/10rules.pdf)” Personal. Bethany Nowviskie, November 2011.  
+
+> Github Pages + Jekyll: [Build a simple website](http://susannalles.com/DHPracticum/practice/jekyll/index.html)
 
 # WEB TECHNOLOGIES
 
