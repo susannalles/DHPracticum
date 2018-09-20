@@ -39,7 +39,6 @@ title: Program
 * Liu, Alan. “[The Meaning of the Digital Humanities.](https://escholarship.org/uc/item/5gc857tw)” PMLA 128 (2013): 409-23 
 * Nowviskie, Bethany. “[Ten Rules for Humanities Scholars New to Project Management.](http://nowviskie.org/handouts/DH/10rules.pdf)” Personal. Bethany Nowviskie, November 2011.  
 
-> Github Pages + Jekyll: [Build a simple website](http://susannalles.com/DHPracticum/practice/jekyll/index.html)
 
 # WEB TECHNOLOGIES
 
@@ -63,6 +62,7 @@ title: Program
 * Or W3Schools [HTML5 Tutorial](https://www.w3schools.com/html/) and [CSS Tutorial](https://www.w3schools.com/css/)
 * Or [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
+> Github Pages + Jekyll: [Build a simple website](http://susannalles.com/DHPracticum/practice/jekyll/index.html)
 
 
 # DATA AND DATABASE
