@@ -33,7 +33,7 @@ title: Program
 
 > Class Leader: Ashley Hemm 
 
-> Paige Morgan: ["Project Management for new-to-DH grad students"](https://docs.google.com/presentation/d/1xqmC0CddJ3GfbRNQPVYNDpWbwbqd4Aa0PsqkIFgl9bc/edit#slide=id.p) 
+> Guest Lecture from Dr. Paige Morgan: ["Project Management for new-to-DH grad students"](https://docs.google.com/presentation/d/1xqmC0CddJ3GfbRNQPVYNDpWbwbqd4Aa0PsqkIFgl9bc/edit#slide=id.p) 
 
 * Leon, Sharon. “[Project Management for Humanists.](http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists)” #alt-academy (May 6, 2011).   
 * Liu, Alan. “[The Meaning of the Digital Humanities.](https://escholarship.org/uc/item/5gc857tw)” PMLA 128 (2013): 409-23 
@@ -70,12 +70,14 @@ title: Program
 ## September 27:
 
 > Class Leader: Dainerys Machado
- 
+
+> Guest Lecture from Dr. Paige Morgan: "Databases"
+> 
 > ePortfolio due; you should also have had your first project conference with Dr. Morgan by now.
 
 > Exercice: Explore types of database; propose solutions for humanities projects; design (sketch) their own… CSV file fun!
 
-* Manovich, Lev. “[Database as a Symbolic Form](http://journals.sagepub.com/doi/abs/10.1177/135485659900500206).” Millenium Film Journal, 34, Fall 1999.  
+* Manovich, Lev. “[Database as a Symbolic Form](http://journals.sagepub.com/doi/pdf/10.1177/135485659900500206).” Millenium Film Journal, 34, Fall 1999.  
 * Ramsay, Stephen. “[Databases](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-3&toc.id=0&brand=9781405103213_brand).” in A Companion to Digital Humanities, 2004. 
 * “['Raw Data' is an Oxymoron](http://raley.english.ucsb.edu/wp-content/Engl800/RawData-excerpts.pdf)", ed. Lisa Gitelman Gitelman, MIT Press, 2013. Introduction and afterward. 
 
