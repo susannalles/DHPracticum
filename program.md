@@ -101,7 +101,7 @@ title: Program
 
 > Guest Lecture: Prof. Alberto Cairo 
 
-> Exercice: Flourish. Low-fi network analysis
+> Tutorial: [Flourish](https://www.dropbox.com/sh/yt5ymypookxqrko/AAB8p5xKKJffr3Bf8p0bRQ_la?dl=0) <https://flourish.studio/>
 
 * Beal, Wesley, and Stacy Lavin. “[Theorizing Connectivity: Modernism and the Network Narrative.](http://www.digitalhumanities.org/dhq/vol/5/2/000097/000097.html)” *Digital Humanities Quarterly* 5.2, 2011. 
 * Cairo, Alberto. 
@@ -112,7 +112,7 @@ title: Program
 
 # TEXT TECHNOLOGIES (II)
 
-## October 25:
+## October 25: Elena Bonmatí
 
 > Exercice: Text mining with structured texts  
 
