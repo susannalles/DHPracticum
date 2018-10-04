@@ -112,7 +112,9 @@ title: Program
 
 # TEXT TECHNOLOGIES (II)
 
-## October 25: Elena Bonmatí
+## October 25
+
+> Class Leader: Elena Bonmatí
 
 > Exercice: Text mining with structured texts  
 
