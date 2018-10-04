@@ -90,7 +90,7 @@ title: Program
 
 > Class Leader: Lidiana de Moraes dos Santos 
 
-> Exercice: collaborative Text Encoding activity
+> Exercice: collaborative Text Encoding activity ([Shakespeare's Sonnet 17](https://www.bl.uk/collection-items/first-edition-of-shakespeares-sonnets-1609))
 
 * Burnard, Lou. *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](https://books.openedition.org/oep/679?lang=en)*, Open Edition: Marseille, 2014, pp. 1-54, (Skim fast Part II, pp. 55-100), pp. 101-103, and Glossary pp. 109-111. 
 * Pierazzo, Elena. “[Textual Scholarship and Text Encoding.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch21)” In *A New Companion to Digital Humanities*, pp. 307-321. 
