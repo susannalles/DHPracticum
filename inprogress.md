@@ -7,8 +7,8 @@ title: Works In Progress
 
 - Elena Bonmatí: [Portfolio](https://elenabonmati.github.io/), [Git Repo](https://github.com/elenabonmati/elenabonmati.github.io)
 - Lidiana de Moraes dos Santos: [Portfolio](https://lidianams.github.io/), [Git Repo](https://github.com/lidianams/lidianams.github.io)
-- Ashley Hemm: [Portfolio](), [Git Repo]()
-- Sam Johnson: [Portfolio](), [Git Repo]()
+- Ashley Hemm: [Portfolio](https://pastfutures.github.io/), [Git Repo](https://github.com/pastfutures/pastfutures.github.io)
+- Sam Johnson: [Portfolio](https://samgjohnson.github.io/), [Git Repo](https://github.com/samgjohnson/samgjohnson.github.io)
 - Dainerys Machado Vento: [Portfolio](https://dainerys.github.io/), [Git Repo](https://github.com/dainerys/dainerys.github.io)
 - Tarika Sankar: [Portfolio](), [Git Repo]()
 - Susanna Allés-Torrent: [Portfolio](http://susannalles.com/), [Git Repo](https://github.com/susannalles/susannalles.github.io)
