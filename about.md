@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Practicum in Digital Humanities  
-This seminar has a an experiential, hands-on and project-based component and aims to offer students the possibility to apply their learning in the field of Digital Humanities and move forward on their personal research project. It will offer a set of practical skills that goes from general principles of computing, web technologies, command line, electronic text analysis and distant reading, text encoding and XML markups, mapping, and network visualization. Students should expect to carry out many practical exercises with programming languages and digital tools, conduct a relatively small amount of readings, and work towards a digital final project.  
+This seminar has an experiential, hands-on and project-based component and aims to offer students the possibility to apply their learning in the field of Digital Humanities and move forward on their personal research project. It will offer a set of practical skills that goes from general principles of computing, web technologies, command line, electronic text analysis and distant reading, text encoding and XML markups, mapping, and network visualization. Students should expect to carry out many practical exercises with programming languages and digital tools, conduct a relatively small amount of readings, and work towards a digital final project.  
  
 ## Learning Outcomes 
 Students will first and foremost gain knowledge: 
