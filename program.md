@@ -99,14 +99,14 @@ title: Program
 
 ## October 11: 
 
-> Guest Lecture: Prof. Alberto Cairo 
+> Guest Lecture: [Prof. Alberto Cairo](https://www.dropbox.com/s/xxjwgfj70od3qxf/SusannaAlles.pdf?dl=0) 
 
-> Tutorial: [Flourish](https://www.dropbox.com/sh/yt5ymypookxqrko/AAB8p5xKKJffr3Bf8p0bRQ_la?dl=0) <https://flourish.studio/>
+> Check Cairo's Tutorials: <http://www.thefunctionalart.com/p/instructors-guide.html>
  
 * Cairo, Alberto. ["Infographics and Visualizations as Tools For the Mind.](https://visual.ly/blog/infographics-and-visualizations-as-tools-for-the-mind/)" *Visually*, Sept. 5, 2012
 * Michael Dubakoc. [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/). *Target Process*, Sept. 2012
 * Few, Stephen. "[Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)." In: Soegaard, Mads and Dam, Rikke Friis (eds.). *The Encyclopedia of Human–Computer Interaction*, 2nd Ed.. Aarhus, Denmark: The Interaction Design Foundation. 
-* Drucker, Johanna. “[Graphical Approaches to the Digital Humanities.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch17)” In *A New Companion to Digital Humanities*, London: Blackweel, 2004, pp. 238-250. 
+* Drucker, Johanna. “[Graphical Approaches to the Digital Humanities.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch17)” In *A New Companion to Digital Humanities*, London: Blackweel, 2015, pp. 238-250. 
  
 
 **<span style="color:#75b5aa;">[Fall Recess, No Class October 18th] </span>**
@@ -116,6 +116,8 @@ title: Program
 ## October 25
 
 > Class Leader: Elena Bonmatí
+
+> Tutorial: [Heather Froehlich, Corpus Analysis with Antconc (*Programming Historian*, 4, 2015](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
 
 > Exercice: Text mining with structured texts  
 
