@@ -115,9 +115,9 @@ title: Program
 
 ## October 25
 
-> Class Leader: Elena Bonmatí
+>  Class Leader: Elena Bonmatí
 
-> Exercice: Text mining with structured texts: [Inaugural Speaches](https://archive.org/download/Inaugural-Address-Corpus-1789-2009/inaugural.zip) or [Federico García Lorca Copus](http://susannalles.com/DHPracticum/practice/TextAnalysisExercices/Lorca.zip), or choose one here <https://github.com/cligs/textbox>. 
+>  Exercice: Text mining with structured texts: [Inaugural Speaches](https://archive.org/download/Inaugural-Address-Corpus-1789-2009/inaugural.zip) or [Federico García Lorca Copus](http://susannalles.com/DHPracticum/practice/TextAnalysisExercices/Lorca.zip), or choose one here <https://github.com/cligs/textbox>. 
 
 * Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch19)” In *A New Companion to Digital Humanities*, pp. 274-290. 
 * Ted Underwood, “[Seven ways humanists are using computers to understand text.](http://sites.nd.edu/digitalhistory/files/2017/02/Underwood_Seven-Ways-Humanists_.pdf)” *The Stone and the Shell*. Blog. June 4, 2015. 
