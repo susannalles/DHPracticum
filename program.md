@@ -99,14 +99,14 @@ title: Program
 
 ## October 11: 
 
-> Guest Lecture: [Prof. Alberto Cairo](https://www.dropbox.com/s/xxjwgfj70od3qxf/SusannaAlles.pdf?dl=0) 
+> Guest Lecture: Prof. Alberto Cairo 
 
-> Check Cairo's Tutorials: <http://www.thefunctionalart.com/p/instructors-guide.html>
+> Tutorial: [Flourish](https://www.dropbox.com/sh/yt5ymypookxqrko/AAB8p5xKKJffr3Bf8p0bRQ_la?dl=0) <https://flourish.studio/>
  
 * Cairo, Alberto. ["Infographics and Visualizations as Tools For the Mind.](https://visual.ly/blog/infographics-and-visualizations-as-tools-for-the-mind/)" *Visually*, Sept. 5, 2012
 * Michael Dubakoc. [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/). *Target Process*, Sept. 2012
 * Few, Stephen. "[Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)." In: Soegaard, Mads and Dam, Rikke Friis (eds.). *The Encyclopedia of Human–Computer Interaction*, 2nd Ed.. Aarhus, Denmark: The Interaction Design Foundation. 
-* Drucker, Johanna. “[Graphical Approaches to the Digital Humanities.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch17)” In *A New Companion to Digital Humanities*, London: Blackweel, 2015, pp. 238-250. 
+* Drucker, Johanna. “[Graphical Approaches to the Digital Humanities.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch17)” In *A New Companion to Digital Humanities*, London: Blackweel, 2004, pp. 238-250. 
  
 
 **<span style="color:#75b5aa;">[Fall Recess, No Class October 18th] </span>**
@@ -117,13 +117,7 @@ title: Program
 
 > Class Leader: Elena Bonmatí
 
-<<<<<<< HEAD
-> Exercice: Text mining with structured texts ([Inaugural Speaches](https://archive.org/download/Inaugural-Address-Corpus-1789-2009/inaugural.zip) or [Federico García Lorca Copus](http://susannalles.com/DHPracticum/practice/TextAnalysisExercices/Lorca.zip), or choose one here <https://github.com/cligs/textbox>. 
-=======
-> Tutorial: [Heather Froehlich, Corpus Analysis with Antconc (*Programming Historian*, 4, 2015](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
-
-> Exercice: Text mining with structured texts  
->>>>>>> 0eae0d3c15be3a82d113a7f13a303d95d71da7d5
+> Exercice: Text mining with structured texts: [Inaugural Speaches](https://archive.org/download/Inaugural-Address-Corpus-1789-2009/inaugural.zip) or [Federico García Lorca Copus](http://susannalles.com/DHPracticum/practice/TextAnalysisExercices/Lorca.zip), or choose one here <https://github.com/cligs/textbox>. 
 
 * Sinclair, Stéfan, and Geoffrey Rockwell. “[Text Analysis and Visualization: Making Meaning Count.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch19)” In *A New Companion to Digital Humanities*, pp. 274-290. 
 * Ted Underwood, “[Seven ways humanists are using computers to understand text.](http://sites.nd.edu/digitalhistory/files/2017/02/Underwood_Seven-Ways-Humanists_.pdf)” *The Stone and the Shell*. Blog. June 4, 2015. 
