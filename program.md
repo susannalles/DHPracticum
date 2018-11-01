@@ -137,8 +137,8 @@ title: Program
 
 > Note: you should have had your second mandatory project conference with Dr. Morgan by November 5th. 
 
-* Goodchild, Michael. “[What Does Google Earth Mean for the Social Sciences?](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470987643.ch2)”  
-* Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In *A New Companion to Digital Humanities*, pp. 201-212.  
+* Goodchild, Michael. “[What Does Google Earth Mean for the Social Sciences?](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470987643.ch2).” In *Geographic Visualization. Concept, Tools and Applications*, ed. Martin Dodge, Mary McDerby and Martin Turner. West Sussex: Wiley, 2008, pp. 11-23.
+* Presner, Todd, and David Shepard. “[Mapping the Geospatial Turn.](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch14)” In A New Companion to Digital Humanities, ed. by S. Schreibman, et al. Oxford: Wiley Black 2016, pp. 201-212.  
 
 
 # FINAL STRETCH
