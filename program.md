@@ -99,7 +99,7 @@ title: Program
 
 ## October 11: 
 
-> Guest Lecture: Prof. Alberto Cairo 
+> Guest Lecture: Prof. Alberto Cairo, [*Visualization design for communication*](https://www.dropbox.com/s/xxjwgfj70od3qxf/SusannaAlles.pdf?dl=0)
 
 > Tutorial: [Flourish](https://www.dropbox.com/sh/yt5ymypookxqrko/AAB8p5xKKJffr3Bf8p0bRQ_la?dl=0) <https://flourish.studio/>
  
@@ -133,7 +133,7 @@ title: Program
 
 > Exercice: Explore some of the maps available at <http://www.radicalcartography.net/>
 
-> Tutorial: Creating a  map with Fusion Tables 
+> Tutorial: [Creating a  map with Fusion Tables](https://support.google.com/fusiontables/answer/2527132?hl=en&topic=2573107&ctx=topic#importsample) 
 
 > Note: you should have had your second mandatory project conference with Dr. Morgan by November 5th. 
 
