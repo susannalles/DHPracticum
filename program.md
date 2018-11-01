@@ -133,6 +133,8 @@ title: Program
 
 > Exercice: Explore some of the maps available at <http://www.radicalcartography.net/>
 
+> Tutorial: Creating a  map with Fusion Tables 
+
 > Note: you should have had your second mandatory project conference with Dr. Morgan by November 5th. 
 
 * Goodchild, Michael. “[What Does Google Earth Mean for the Social Sciences?](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470987643.ch2)”  
