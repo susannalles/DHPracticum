@@ -1,3 +1,4 @@
-# Attention!
+# DH Practicum
+MLL 774-2T | University of Miami | Fall 2018
 
-With the release of the 1.0 gem, `Ed.` has moved to https://github.com/minicomp/ed/
+Visit the course website at https://susannalles.github.io/DHPracticum/ 
