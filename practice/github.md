@@ -8,7 +8,7 @@ title: GitHub
 
 Go to <https://github.com/join> and create your account. Be careful with which username you choose because it will be the name it appears in your url. 
 
-![Create Username]({{ site.baseurl }}/practice/img/01.png)
+![Create Username](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/img/01.png)
 
 Once you are signed in, you have to create a new repository where you will host your project. 
 
