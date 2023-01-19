@@ -31,31 +31,6 @@ Now let's create directly into GitHub a simple html page that we will name it "i
 
 You can write a simple code with just a title and a paragraph or copy and paste this code: 
 
-```HTML
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Your title</title>
-        <style>
-            body {
-                background-color: #e6e2d3;
-                font-family: "PT Sans", Helvetica, Arial, sans-serif;
-            }
-            
-            h1 {
-                color: #bd5734;
-            }
-            p {
-                color: #587e76;
-            }</style>
-    </head>
-    <body>
-        <h1>This is a heading</h1>
-        <p>This is a paragraph.</p>
-    </body>
-</html>
-```
-
 If you are on MAC you might see this poping up, say "Install" (you will need this at some point):
 
 ![Text]({{ site.baseurl }}/practice/img/08.png)
