@@ -3,6 +3,7 @@ layout: practice
 title: GitHub
 ---
 
+
 # Create Username & Activate GitHub Pages 
 
 Go to <https://github.com/join> and create your account. Be careful with which username you choose because it will be the name it appears in your url. 
@@ -25,7 +26,7 @@ Once it is created you will see this:
 
 ![Text]({{ site.baseurl }}/practice/img/06.png)
 
-Now let's create directly into GitHub a simple html page that we will name it "[index.html](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/index.html)":
+Now let's create directly into GitHub a simple html page that we will name it "[index.html](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/index2.html)":
 
 ![Text]({{ site.baseurl }}/practice/img/07.png)
 
