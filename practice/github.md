@@ -25,7 +25,7 @@ Once it is created you will see this:
 
 ![Text]({{ site.baseurl }}/practice/img/06.png)
 
-Now let's create directly into GitHub a simple html page that we will name it "index.html":
+Now let's create directly into GitHub a simple html page that we will name it "[index.html](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/index.html)":
 
 ![Text]({{ site.baseurl }}/practice/img/07.png)
 
