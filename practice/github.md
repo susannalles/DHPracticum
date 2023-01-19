@@ -31,7 +31,7 @@ Now let's create directly into GitHub a simple html page that we will name it "i
 
 You can write a simple code with just a title and a paragraph or copy and paste this code: 
 
-```html
+```
 <!DOCTYPE html>
 <html>
     <head>
