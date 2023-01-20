@@ -3,7 +3,6 @@ layout: practice
 title: GitHub
 ---
 
-
 # Create Username & Activate GitHub Pages 
 
 Go to <https://github.com/join> and create your account. Be careful with which username you choose because it will be the name it appears in your url. 
@@ -64,6 +63,8 @@ If you are on MAC you might see this poping up, say "Install" (you will need thi
 Now, you should be able if you go to https://username.github.io/ (the name of your repository) to see your new online space where you will create your eportofio: 
 
 ![Text](https://github.com/susannalles/DHPracticum/blob/gh-pages/practice/img/09.png)
+
+Enjoy your new virtual space! 
 
 
 
